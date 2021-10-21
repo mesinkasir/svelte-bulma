@@ -4,6 +4,8 @@
 
 documentation & tutorial : [https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html](https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html)
 
+[Demo Video Svelte Bulma →](https://www.youtube.com/watch?v=EgoBaJ3TRyk)
+
 
 ![new svelte bulma website template themes](https://1.bp.blogspot.com/-CD6tI-9RqDE/YXDU71anyWI/AAAAAAAARaM/ppGnt_Ob0tce3gR3INp6VVLe_Q9UGG_ewCLcBGAsYHQ/s2048/svelte%2Bbuma%2Btemplate%2B%25281%2529.png)
 
