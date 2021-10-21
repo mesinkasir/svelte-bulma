@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Bulma Svelte website themes template
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/svelte-bulma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Demo Svelte Bulma →](https://whatsappshop.vercel.app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+documentation & tutorial : [https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html](https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![new svelte bulma website template themes](https://1.bp.blogspot.com/-CD6tI-9RqDE/YXDU71anyWI/AAAAAAAARaM/ppGnt_Ob0tce3gR3INp6VVLe_Q9UGG_ewCLcBGAsYHQ/s2048/svelte%2Bbuma%2Btemplate%2B%25281%2529.png)
 
-```markdown
-Syntax highlighted code block
+Home page 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![new svelte bulma website template themes](https://1.bp.blogspot.com/-KUyZCbF18xs/YXDU7TIX1bI/AAAAAAAARaI/sEM3-l-VS1EWUvXQ9ZGqzVy-jOK2ydWwQCLcBGAsYHQ/s671/svelte%2Bbuma%2Btemplate%2B%25282%2529.png)
 
-1. Numbered
-2. List
+Mobile view
 
-**Bold** and _Italic_ and `Code` text
+![new svelte bulma website template themes](https://1.bp.blogspot.com/-Ree78uiBzKw/YXDU8AeW77I/AAAAAAAARaQ/V098lw1XGyEeNVIdmO2WjAdqrs9u5um8QCLcBGAsYHQ/s1450/svelte%2Bbuma%2Btemplate%2B%25283%2529.png)
 
-[Link](url) and ![Image](src)
-```
+Example page with image
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![new svelte bulma website template themes](https://1.bp.blogspot.com/-mxP4Fec8_w4/YXDU-W1q0xI/AAAAAAAARaY/kNIrOfDns5M2FaErmDkeV11ybtOj11msgCLcBGAsYHQ/s1801/svelte%2Bbuma%2Btemplate%2B%25285%2529.png)
 
-### Jekyll Themes
+Other page with video
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/svelte-bulma/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-----------------------------------------------
 
-### Support or Contact
+### Buy me a coffee :hearts: ✌🏻
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+----------------------------------------------
+
+documentation & tutorial : [https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html](https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html)
