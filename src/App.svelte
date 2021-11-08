@@ -33,8 +33,8 @@
 	  <div class="navbar-end">
 		<div class="navbar-item">
 		  <div class="buttons">
-			<a href="https://play.google.com/store/apps/details?id=com.axcora.whatshop" class="button is-primary">
-			  <strong>PlayStore</strong>
+			<a href="https://wa.me/6285646104747" class="button is-primary">
+			  <strong>Chat Now</strong>
 			</a>
 			<a href="https://github.com/mesinkasir/svelte-bulma" class="button is-dark">
 			  Github
