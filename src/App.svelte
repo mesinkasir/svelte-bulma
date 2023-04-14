@@ -33,7 +33,7 @@
 	  <div class="navbar-end">
 		<div class="navbar-item">
 		  <div class="buttons">
-			<a href="https://wa.me/6285646104747" class="button is-primary">
+			<a href="https://wa.me/62895339403223" class="button is-primary">
 			  <strong>Chat Now</strong>
 			</a>
 			<a href="https://github.com/mesinkasir/svelte-bulma" class="button is-dark">
